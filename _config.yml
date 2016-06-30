@@ -1,4 +1,3 @@
-layout_spectrum: 0.04652243386954069
 typography_spectrum: 0.7954272569622844
 color:
   brandStrength: 0.533021800685674
@@ -11,4 +10,12 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+opengraph:
+  type: ''
+layout_spectrum: 0.04652243386954069
+author:
+  email: boris@bmannconsulting.com
+  url: 'http://www.bmannconsulting.com'
+  name: Boris Mann
 name: Pudding
+title: Professional web apps on the desktop
