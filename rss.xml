@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Professional web apps on the desktop]]></title>
+        <description><![CDATA[Professional web apps on the desktop]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 17:24:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Electron]]></title>
+            <description><![CDATA[<article><h1>Electron</h1><p>Build cross platform desktop apps with JavaScript, HTML, and CSS.</p><img src="http://electron.atom.io/images/opengraph.png"></article>]]></description>
+            <link>http://electron.atom.io/</link>
+            <guid isPermaLink="false">3695f533-d5d9-4163-93e5-b55b230845d2</guid>
+            <pubDate>Thu, 30 Jun 2016 17:23:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
