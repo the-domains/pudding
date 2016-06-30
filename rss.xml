@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Professional web apps on the desktop]]></title>
         <description><![CDATA[Professional web apps on the desktop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pudding/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 17:24:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 17:41:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pudding/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Great web apps are building for the desktop]]></title>
+            <description><![CDATA[<article><h1>Great web apps are building for the desktop</h1><p>Browse the list of companies that are investing in a desktop version of their web app »</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa9fdaa-2690-4cec-a374-7cf84580b2e8.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa9fdaa-2690-4cec-a374-7cf84580b2e8.png</link>
+            <guid isPermaLink="false">46df4792-d5d3-4764-b4f4-ec9dbcf9b4d0</guid>
+            <pubDate>Thu, 30 Jun 2016 17:41:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electron]]></title>
-            <description><![CDATA[<article><h1>Electron</h1><p>Build cross platform desktop apps with JavaScript, HTML, and CSS.</p><img src="http://electron.atom.io/images/opengraph.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Electron</h1><p>Build cross platform desktop apps with JavaScript, HTML, and CSS.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f780bf49c4f6dd5a674b35a32f3dab17/noop.png?input=http%3A%2F%2Felectron.atom.io%2Fimages%2Fopengraph.png"></article>]]></description>
             <link>http://electron.atom.io/</link>
             <guid isPermaLink="false">3695f533-d5d9-4163-93e5-b55b230845d2</guid>
             <pubDate>Thu, 30 Jun 2016 17:23:54 GMT</pubDate>
